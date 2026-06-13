@@ -1,9 +1,33 @@
-h1 {
-    color: blue;
-    font-size: 44px;
+html {
+    background-color: blueviolet;
 }
-
-h2 {
-    color: darkblue;
-    font-size: 36px;
+.jo1 {
+    color: white;
+    font-size: 50px;
+    font-family:  Courier New, monospace ;
+}
+h2{
+    color: white;
+    font-size: 30px;
+    font-family: Courier New, monospace; ;
+}
+.jo2{
+    color: black;
+    font-size: 20px;
+    font-family:  Courier New, monospace; ;
+}
+.jo3{
+    color: black;
+    font-size: 20px;
+    font-family:  Courier New, monospace; ;
+}
+.jo4{
+    color: black;
+    font-size: 20px;
+    font-family:  Courier New, monospace; 
+}
+.jo5{
+    color: black;
+    font-size: 20px;
+    font-family: Courier New, monospace; 
 }
