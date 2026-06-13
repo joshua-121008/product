@@ -1,0 +1,9 @@
+print("joshua\tjason")
+j="joshuasjasondharamaraj"
+l="jasondharamaraj"
+k="krishmaharaja"
+print(j)
+print(l)
+print(k)
+print(j+k)
+print(j[0])
