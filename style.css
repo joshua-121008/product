@@ -31,3 +31,41 @@ h2{
     font-size: 20px;
     font-family: Courier New, monospace; 
 }
+img{
+    float:right;
+    width: 200px;
+    height: 200px;
+}
+
+.jo1{
+    diaplay: block;
+    text-align: center;
+}
+.avatar {
+    border-radius: 50%;
+}
+
+.jo2{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
+.jo{
+    display:flex;
+    justify-content: center;
+}
+.jo3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 10px;
+}
+.jo4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+}
+.jo5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+}
